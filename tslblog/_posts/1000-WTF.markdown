@@ -1,0 +1,29 @@
+---
+categories: Site News
+date: 2012/03/23 09:00:00
+tags: 'upgrades'
+title: 'What is Going On With The Lair?'
+filter: markdown
+author: Chris Miller
+---
+
+Yes...the site looks a little different this morning. Let me explain.
+
+Yesterday, we were hacked for the umpteenth time. Our Wordpress install
+was compromised. I had a long day at work, and when I saw the glory of
+my Lair being used by hackers, I decided that enough was enough. Death
+to Wordpress. 
+
+I shut down the site, backed up the files and the database, and removed
+the Wordpress install. After discussion with my staff, we've decided to
+rebuild the site from scratch. Hence the strange look and feel this
+morning. 
+
+Pardon our dust while we remodel. You'll see changes rolling out over
+time. I'm working to restore the old content, and new content will roll
+out as is possible. We thank you for sticking with us while we make the
+site better than it was before. 
+
+Better. Stronger. Faster. 
+
+
